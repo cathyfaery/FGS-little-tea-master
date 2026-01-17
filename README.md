@@ -1,2 +1,9 @@
-# little-tea-master-flashcards-
-FGS little-tea-master-playground
+# 佛陀紀念館小小茶師學習卡 🍵
+
+這是一套給孩子使用的「翻卡式學習卡」，  
+點一下看答案，適合手機、平板、電腦。
+
+## 適合
+- 小小茶師課程
+- 茶禪教育
+- 親子共學
